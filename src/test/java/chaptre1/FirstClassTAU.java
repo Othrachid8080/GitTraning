@@ -8,6 +8,6 @@ public class FirstClassTAU {
 
     @Test
     public void firstAut(){
-        out.println("My First Test");
+        out.println("My First Test with Idea");
     }
 }
